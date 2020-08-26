@@ -5,4 +5,4 @@
 
 Example
 
-![sample img terminal out](https://github.com/emajidev/simple-python-neural-network/blob/master/sample2.png)
+![sample img terminal out](https://raw.githubusercontent.com/emajidev/simple-python-neural-network/master/sample2.png)
